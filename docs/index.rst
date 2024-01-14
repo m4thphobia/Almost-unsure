@@ -11,10 +11,15 @@ Welcome to Almost unsure!
 
 Contents
 --------
+.. toctree::
+   :caption: Prerequisits
+   :maxdepth: 1
+
+   source/Prerequisits/Prerequisits
 
 .. toctree::
    :caption: Generative Models
-   :maxdepth: 2
+   :maxdepth: 1
 
    source/Generative_Models/EBMs/Score-Bace/Score-Bace
 
@@ -24,18 +29,31 @@ Contents
 
 .. toctree::
    :caption: Reinforcement Learning
-   :maxdepth: 2
+   :maxdepth: 1
 
    source/Reinforcement_Learning/AlphaZero/AlphaZero
    source/Reinforcement_Learning/MuZero/MuZero
 
 .. toctree::
    :caption: Molecule Generation
-   :maxdepth: 2
+   :maxdepth: 1
+
+.. toctree::
+   :caption: Physics Informed Neural Network
+   :maxdepth: 1
+
+   source/Physics_Informed/PINN/PINN
+
+.. toctree::
+   :caption: Optimal Transport
+   :maxdepth: 1
+
+   source/Optimal_Transport/OT/OT
+   ource/Optimal_Transport/Application/Application
 
 .. toctree::
    :caption: Others
-   :maxdepth: 2
+   :maxdepth: 1
 
    source/Others/Visualize/t-SNE/t-SNE
    source/Others/Visualize/Umap/Umap
