@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+Welcome to Almost unsure!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+| *Course edition*: Being kept up to date
+| *Repository*: https://github.com/m4thphobia/Almost-unsure
+| *Author*: m4thphobia
 
 .. note::
 
-   This project is under active development.
+    Are you interest in the mathematics underlying machine learning?You are in the right place!
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Reinforcement Learning
+   Generative Models
+   Molecule Generation
+   Probability Theory
+   geometry
