@@ -13,9 +13,21 @@ Contents
 --------
 
 .. toctree::
+   :caption: Generative Models
+   :maxdepth: 2
 
-   Reinforcement Learning
-   Generative Models
-   Molecule Generation
-   Probability Theory
-   geometry
+.. toctree::
+   :caption: Reinforcement Learning
+   :maxdepth: 2
+
+.. toctree::
+   :caption: Molecule Generation
+   :maxdepth: 2
+
+.. toctree::
+   :caption: Probability Theory
+   :maxdepth: 2
+
+.. toctree::
+   :caption: geometry
+   :maxdepth: 2
