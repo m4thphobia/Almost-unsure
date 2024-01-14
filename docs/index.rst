@@ -66,7 +66,7 @@ Contents
 
 .. toctree::
    :caption: Probability Theory
-   :maxdepth: 2
+   :maxdepth: 1
 
    source/Probability_Theory/PT/PT
    source/Probability_Theory/SP/SP
@@ -74,7 +74,7 @@ Contents
 
 .. toctree::
    :caption: Geometry
-   :maxdepth: 2
+   :maxdepth: 1
 
    source/Geometry/Differential_Geometry_of_Curves_and_Surfaces/Differential_Geometry_of_Curves_and_Surfaces
    source/Geometry/Manifold/Manifold
