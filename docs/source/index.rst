@@ -20,6 +20,8 @@ Contents
    :caption: Reinforcement Learning
    :maxdepth: 2
 
+   Reinforcement Learning/AlphaZero/AlphaZero
+
 .. toctree::
    :caption: Molecule Generation
    :maxdepth: 2
