@@ -38,6 +38,8 @@ Contents
    :caption: Molecule Generation
    :maxdepth: 1
 
+   source/Molecule_Generation/Molecule_Generation/MolGen_with_VAE/MolGen_with_VAE
+
 .. toctree::
    :caption: Physics Informed Neural Network
    :maxdepth: 1
