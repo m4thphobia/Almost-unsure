@@ -41,12 +41,6 @@ Contents
    source/Molecule_Generation/Molecule_Generation/MolGen_with_VAE/MolGen_with_VAE
 
 .. toctree::
-   :caption: Physics Informed Neural Network
-   :maxdepth: 1
-
-   source/Physics_Informed/PINN/PINN
-
-.. toctree::
    :caption: Optimal Transport
    :maxdepth: 1
 
@@ -65,6 +59,8 @@ Contents
    source/Others/Stein_Variational_Gradient_Discent/Stein_Variational_Gradient_Discent
    source/Others/Difference_Target_Propagetion/Difference_Target_Propagetion
    source/Others/Quantile_Regression/Quantile_Regression
+
+   source/Others/Physics_Informed/PINN/PINN
 
 .. toctree::
    :caption: Probability Theory
